@@ -1,6 +1,6 @@
 {
   "name": "shadowize",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Apply shadow effects and additional styling options to specified elements with ease.",
   "main": "./src/index.js",
   "scripts": {

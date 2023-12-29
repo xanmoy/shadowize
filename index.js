@@ -42,5 +42,3 @@ function Shadowize(options) {
 }
 
 module.exports.Shadowize = Shadowize;
-
-/src/index.js

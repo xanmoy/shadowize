@@ -14,29 +14,29 @@ function Shadowize(options) {
             image.style.padding = '1em';
         }
 
-        if (options.border_radius) {
-            image.style.borderRadius = '1em';
-        }
+        // if (options.border_radius) {
+        //     image.style.borderRadius = '1em';
+        // }
 
-        if (options.border) {
-            image.style.border = '1px solid rgba(0,0,0,0.12)';
-        }
+        // if (options.border) {
+        //     image.style.border = '1px solid rgba(0,0,0,0.12)';
+        // }
 
-        if (options.margin) {
-            image.style.margin = '1em';
-        }
+        // if (options.margin) {
+        //     image.style.margin = '1em';
+        // }
 
-        if (options.width) {
-            image.style.width = '100%';
-        }
+        // if (options.width) {
+        //     image.style.width = '100%';
+        // }
 
-        if (options.height) {
-            image.style.height = '100%';
-        }
+        // if (options.height) {
+        //     image.style.height = '100%';
+        // }
 
-        if (options.background) {
-            image.style.background = 'rgba(0,0,0,0.12)';
-        }
+        // if (options.background) {
+        //     image.style.background = 'rgba(0,0,0,0.12)';
+        // }
 
     })
 }

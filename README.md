@@ -52,8 +52,7 @@ Apply a soft shadow with additional styling options:
 Shadowize('.custom-elements', {
   shadow_type: 'soft',
   padding: true,
-  border_radius: true,
-  margin: true,
+ 
 });
 
 ```
